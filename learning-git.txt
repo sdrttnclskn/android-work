@@ -1,0 +1,16 @@
+1-) çalýþma dizinimizi oluþturuyouz. "android-work"
+
+2-) çalýþma dizinimizde 'git init' ile gitin tanýmlasýný yapýyoruz. git deposu oluþturacak.
+
+3-) takip edilmeyen dosyalarý çalýþma dizinimizden sahneye eklememiz gerek.
+
+* 'git add dosya adi'.... ile sahneye ekledik.
+* 'git commit -m "mesaj"' ..... ile yerel depomuza alýyouz.
+*  README.md eklenmesi.
+
+4-) uzaktaki depoyu kendi yerel depomuzla birleþtirmek.
+
+*  birincisi github platformunda kendi hesabýmýzda repostory oluþturuyoruz.
+*  uzak depoyu tanýmlak. 'git remote add origin https://github.com/sdrttnclskn/android-work.git'
+   origin : köken. orjinal uzak depomuzun adý.
+* 'git push' ile itebiliriz. nereye,neyi  yüklüyoruz.  -git push origin master-
