@@ -1,5 +1,4 @@
-# android öğreniyoruz.
+# android Ã¶ÄŸreniyoruz.
 
--Android giriş dersler.
 
--Android giriş dersleri bağlamında basit uygulamlar yapılması.
+*Android giriÅŸ dersleri baÄŸlamÄ±nda  yapÄ±lan basit uygulamlar.
