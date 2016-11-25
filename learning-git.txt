@@ -32,3 +32,10 @@
    bir daha gönderdiğmizde sadece git push : komutunu kullanırz.
    
 
+6-) git dersleri
+
+* git -DVCS mantığı[https://www.youtube.com/watch?v=lxsff7o0vjU&index=1&list=PL2jZMx6EhNFORQJU2-dyhy1KmuggAoudB]
+
+* git -ilk depomuzu oluşturuyoruz.[https://www.youtube.com/watch?v=axog9HT0xL8&index=2&list=PL2jZMx6EhNFORQJU2-dyhy1KmuggAoudB]
+
+* git -branches,dallar; sapla samanı ayırmak.[https://www.youtube.com/watch?v=j6baJi_eRwo&index=3&list=PL2jZMx6EhNFORQJU2-dyhy1KmuggAoudB]
