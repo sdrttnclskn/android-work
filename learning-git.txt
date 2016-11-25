@@ -28,5 +28,7 @@
 *  git log --all --oneline --decorate --graph : ile detaylı log listelenir.
 *  git branch -d yeniDal : yerel depomuzdaki dallardan silmek istediğimizi belirterek silinmesini
    sağlaycağımız komut.
-*     
+*  git push -u origin master : u ile herzaman origin i master gönderdiğmizi belirtir.
+   bir daha gönderdiğmizde sadece git push : komutunu kullanırz.
+   
 
