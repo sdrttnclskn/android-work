@@ -29,3 +29,13 @@
 *  git branch -d yeniDal : yerel depomuzdaki dallardan silmek istediğimizi belirterek silinmesini
    sağlaycağımız komut.
 *     
+
+
+6-) branches için bir deneme
+
+*selam
+*dost
+*arkadaş
+*heval
+*friendly
+
