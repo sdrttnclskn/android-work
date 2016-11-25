@@ -1,16 +1,31 @@
-1-) �al��ma dizinimizi olu�turuyouz. "android-work"
+1-) çalışma dizinimizi oluşturuyouz. "android-work"
 
-2-) �al��ma dizinimizde 'git init' ile gitin tan�mlas�n� yap�yoruz. git deposu olu�turacak.
+2-) çalışma dizinimizde 'git init' ile gitin tanımlasını yapıyoruz. git deposu oluşturacak.
 
-3-) takip edilmeyen dosyalar� �al��ma dizinimizden sahneye eklememiz gerek.
+3-) takip edilmeyen dosyaları çalışma dizinimizden sahneye eklememiz gerek.
 
 * 'git add dosya adi'.... ile sahneye ekledik.
-* 'git commit -m "mesaj"' ..... ile yerel depomuza al�youz.
+* 'git commit -m "mesaj"' ..... ile yerel depomuza alıyouz.
 *  README.md eklenmesi.
 
-4-) uzaktaki depoyu kendi yerel depomuzla birle�tirmek.
+4-) uzaktaki depoyu kendi yerel depomuzla birleştirmek.
 
-*  birincisi github platformunda kendi hesab�m�zda repostory olu�turuyoruz.
-*  uzak depoyu tan�mlak. 'git remote add origin https://github.com/sdrttnclskn/android-work.git'
-   origin : k�ken. orjinal uzak depomuzun ad�.
-* 'git push' ile itebiliriz. nereye,neyi  y�kl�yoruz.  -git push origin master-
+*  birincisi github platformunda kendi hesabımızda repostory oluşturuyoruz.
+*  uzak depoyu tanımlak. 'git remote add origin https://github.com/sdrttnclskn/android-work.git'
+   origin : köken. orjinal uzak depomuzun adı.
+* 'git push' ile itebiliriz. nereye,neyi  yüklüyoruz.  -git push origin master-
+
+
+5-) git branches ler üzerinde çalışma.
+
+*  git branch -l : yerel depomuzdaki dalların listesini getirir.
+   içinde bulunduğumuz dalın başında yıldız vardır.
+*  git branch yeniDal : yerel depomuzda yeni bir dal oluşturmak için kullanılır.
+*  git checkout yeniDal: yerel depomuzdaki hangi dala geçiş yapacağımızı belirtiriz.
+   çalışma dizinimiz bu dalın son durumuna güncelenir
+*  git checkout master ile master dalına geçiyoruz.
+*  daha sonar yeniDal ı merge ediyoruz. git merge yeniDal.
+*  git log --all --oneline --decorate --graph : ile detaylı log listelenir.
+*  git branch -d yeniDal : yerel depomuzdaki dallardan silmek istediğimizi belirterek silinmesini
+   sağlaycağımız komut.
+*     
