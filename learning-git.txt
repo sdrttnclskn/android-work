@@ -1,4 +1,4 @@
-1-) çalışma dizinimizi oluşturuyouz. "android-work"
+﻿1-) çalışma dizinimizi oluşturuyouz. "android-work"
 
 2-) çalışma dizinimizde 'git init' ile gitin tanımlasını yapıyoruz. git deposu oluşturacak.
 
@@ -29,13 +29,4 @@
 *  git branch -d yeniDal : yerel depomuzdaki dallardan silmek istediğimizi belirterek silinmesini
    sağlaycağımız komut.
 *     
-
-
-6-) branches için bir deneme
-
-*selam
-*dost
-*arkadaş
-*heval
-*friendly
 
