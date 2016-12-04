@@ -1,0 +1,3 @@
+[submodule "android-work"]
+	path = android-work
+	url = https://github.com/sdrttnclskn/android-work.git
