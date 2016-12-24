@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListeView</string>
+    <string-array name="sports">
+        <item>Futbol</item>
+        <item>Basketbol</item>
+        <item>Tenis</item>
+        <item>Buz Hokeyi</item>
+        <item>Satranç</item>
+        <item>Aikido</item>
+        <item>Judo</item>
+        <item>Masa Tenisi</item>
+        <item>Karate</item>
+        <item>Hentbol</item>
+        <item>Voleybol</item>
+        <item>Badminton</item>
+        <item>Güreş</item>
+        <item>Yüzme</item>
+        <item>Okçuluk</item>
+        <item>At Yarışı</item>
+        <item>Kayak</item>
+        <item>Box</item>
+        <item>Thai Chi</item>
+        <item>Taekwando</item>
+    </string-array>
+</resources>
